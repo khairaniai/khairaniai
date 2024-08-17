@@ -12,14 +12,14 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Satellite Data Analysis and Mapping (phyton programming)           | <a href="https://google.com">Detection Lab</a>|
-| Big Data Management (R programming - skripsi)           | <a href="https://google.com">Detection Lab</a>|
-| Big Data Management (R programming)           | magang 2023|
-| Big Data Management (R programming)           | projek hidroklim|
-| Geospatial Data Management (ArcGIS - interpolation)           | magang 2023|
-| Geospatial Data Management (ArcGIS - interpolation)           | metklim interpolasi|
+| Satellite Data Analysis and Visualization (phyton programming)           | <a href="https://google.com">Detection Lab</a>|
+| Big Data Management and Visualization (R programming - skripsi)           | <a href="https://google.com">Detection Lab</a>|
+| Big Data Management and Visualization (R programming)           | magang 2023|
+| Big Data Management and Visualization (R programming)           | projek hidroklim|
+| Geospatial Data Management (ArcGIS - Mapping)           | magang 2023|
+| Geospatial Data Management (ArcGIS - Mapping)           | metklim interpolasi|
 | Satellite Data Analysis and Mapping (ArcGIS)           | metsat|
-| Geospatial Data Management (ArcGIS - topography mapping)           | ASK|
+| Geospatial Data Management (ArcGIS - Topography Mapping)           | ASK|
 
 
 ## Tools
