@@ -7,20 +7,35 @@ I'm a recent graduate from IPB University with a strong foundation in data analy
 
 My academic and hands-on experiences in data analysis, R programming, and geospatial mapping have fueled my passion for leveraging data-driven insights. I am now eager to transition into a data analyst role where I can apply my skills in data mining, interpretation, and GIS applications to solve complex problems and drive informed decision-making.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Satellite Data Analysis and Visualization (phyton programming)           | <a href="https://google.com">Detection Lab</a>|
-| Big Data Management and Visualization (R programming - skripsi)           | <a href="https://google.com">Detection Lab</a>|
-| Big Data Management and Visualization (R programming)           | magang 2023|
-| Big Data Management and Visualization (R programming)           | projek hidroklim|
-| Geospatial Data Management (ArcGIS - Mapping)           | magang 2023|
-| Geospatial Data Management (ArcGIS - Mapping)           | metklim interpolasi|
-| Satellite Data Analysis and Mapping (ArcGIS)           | metsat|
-| Geospatial Data Management (ArcGIS - Topography Mapping)           | ASK|
+<h2>👨‍💻 Big Data Management and Visualization (R programming):</h2>
 
+- <b>skripsi</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>magang 2023</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>project hidroklim</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+<h2>👨‍💻 Satellite Data Analysis and Visualization:</h2>
+
+- <b>Phyton Programming</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>ArcGIS (metsat)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+<h2>👨‍💻 Geospatial Data Management:</h2>
+
+- <b> (ArcGIS - magang 2023)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>ArcGIS metklim interpolasi</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>ArcGIS ASK</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
