@@ -13,8 +13,8 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 
 - <b>skripsi</b>
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
-- <b>magang 2023</b>
-  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
+- <b>Hundreds of Daily Data Management</b>
+  - [Rainy Season Estimation](https://github.com/khairaniai/Estimating-the-Onset-and-Cessation-of-the-Rainy-Season)
 - <b>Extreme Rainfall</b>
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
   
