@@ -12,30 +12,28 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 <h2>👨‍💻 Big Data Management and Visualization (R programming):</h2>
 
 - <b>skripsi</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 - <b>magang 2023</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>project hidroklim</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
+- <b>Extreme Rainfall</b>
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
+  
 
 <h2>👨‍💻 Satellite Data Analysis and Visualization:</h2>
 
 - <b>Phyton Programming</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 - <b>ArcGIS (metsat)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(BELOM)</b></i>
 
 <h2>👨‍💻 Geospatial Data Management:</h2>
 
 - <b> (ArcGIS - magang 2023)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 - <b>ArcGIS metklim interpolasi</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 - <b>ArcGIS ASK</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
