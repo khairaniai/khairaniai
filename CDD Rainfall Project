@@ -1,0 +1,63 @@
+<h1>CDD (Extreme Rainfall Project)</h1>
+
+<h2>Description</h2>
+In this project, I calculated the CDD (Consecutive Dry Days). The calculation of CDD is an important index in assessing extreme precipitation events. Conducting this analysis is crucial as it significantly impacts water resources and agriculture in a given region. Prolonged dry conditions can lead to reduced crop yields and increased water shortages.
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>RStudio</b> 
+- <b>Excel</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> (21H2)
+
+<h2>Program walk-through:</h2>
+
+<p align="left">
+I shortlisted Kupang, Semarang, and Pontianak as the focus areas. This project examines the impact of extreme rainfall over the long term across various climate types, specifically tropical rainforest, tropical monsoon, and tropical savanna climates. The analysis covers the past 30 years, with Pontianak, Semarang, and Kupang serving as representative locations for each respective climate type.
+<br/>
+<p align="center">
+Data Management and Calculation: <br/>
+<p align="left">
+The first step was to collect the data, which required daily rainfall data for 30 years. Since my data was in Excel format, I used the readxl package to read it. The example below uses only Kupang data. As shown in the data preview, there are two variables (date and precipitation), and there are 10,958 observations.
+<br/>
+<img src="https://drive.google.com/file/d/1ieLAIlnu2JV4PJitwNN2SLJMypn84G39/view?usp=drive_link" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
