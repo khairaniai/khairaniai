@@ -22,7 +22,7 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 <h2>👨‍💻 Satellite Data Analysis and Visualization:</h2>
 
 - <b>Phyton Programming</b>
-  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
+  - [Tidal Flood Analysis](https://github.com/khairaniai/Wind-and-Humidity-Plotting-phyton)
 - <b>ArcGIS (metsat)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(BELOM)</b></i>
 
