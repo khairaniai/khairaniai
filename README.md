@@ -12,7 +12,7 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 <h2>👨‍💻 Big Data Management and Visualization (R programming):</h2>
 
 - <b>Years of Daily Data Analysis</b>
-  - [Daily Meteorological data to Estimate Evapotranspiration](https://github.com/khairaniai/Meteorology-for-Evapotranspiration)
+  - [Daily Meteorological Data to Estimate Evapotranspiration](https://github.com/khairaniai/Meteorology-for-Evapotranspiration)
 - <b>Hundreds of Daily Data Management</b>
   - [Rainy Season Estimation](https://github.com/khairaniai/Estimating-the-Onset-and-Cessation-of-the-Rainy-Season)
 - <b>Extreme Rainfall</b>
