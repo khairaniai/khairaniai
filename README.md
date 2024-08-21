@@ -1,7 +1,7 @@
 # Hello, I'm Khairani
 <a href="https://www.linkedin.com/in/khairani-kna-a650b5208/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a recent graduate from IPB University with a strong foundation in data analysis, specializing in R programming and GIS applications like ArcGIS. Throughout my academic journey, I've gained hands-on experience in utilizing R for statistical analysis, data visualization, and problem-solving in various projects. Additionally, my expertise in geospatial mapping through ArcGIS and other GIS tools has allowed me to analyze and interpret spatial data effectively. I'm passionate about leveraging data and GIS to drive informed decisions and am eager to apply my skills to new challenges.
+I'm a recent graduate from IPB University with a strong foundation in data analysis, specializing in R programming and GIS applications like ArcGIS. Throughout my academic journey, I've gained hands-on experience in utilizing R for statistical analysis, data visualization, and problem-solving in various projects. Additionally, my expertise in geospatial mapping through ArcGIS and other GIS tools has allowed me to analyze and interpret spatial data effectively. I'm passionate about leveraging data to drive informed decisions and am eager to apply my skills to new challenges.
 
 ## Objective
 
