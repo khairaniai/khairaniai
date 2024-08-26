@@ -32,8 +32,8 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 - <b>ArcGIS metklim interpolasi</b>
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
-- <b>ArcGIS ASK</b>
-  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
+- <b>Remote Sensing</b>
+  - [Landsat Data for UHI, LST, and LU/LC](https://github.com/khairaniai/CDD-ExtremeRainfall)
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
