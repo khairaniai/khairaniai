@@ -23,8 +23,9 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 
 - <b>Phyton Programming</b>
   - [Tidal Flood Analysis](https://github.com/khairaniai/Wind-and-Humidity-Plotting-phyton)
-- <b>ArcGIS (metsat)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(BELOM)</b></i>
+- <b>Remote Sensing</b>
+  - [Landsat Data for UHI, LST, and LU/LC](https://github.com/khairaniai/UHI-LST-LU-LC)
+
 
 <h2>👨‍💻 Geospatial Data Management:</h2>
 
@@ -32,8 +33,8 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
   - [IDW Interpolation for Hydrological Analysis](https://github.com/khairaniai/ArcGIS-IDW-interpolation)
 - <b>ArcGIS metklim interpolasi</b>
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
-- <b>Remote Sensing</b>
-  - [Landsat Data for UHI, LST, and LU/LC](https://github.com/khairaniai/UHI-LST-LU-LC)
+- <b>ArcGIS (metsat)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(BELOM)
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
