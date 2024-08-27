@@ -26,6 +26,7 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 - <b>Remote Sensing</b>
   - [Landsat Data for UHI, LST, and LU/LC](https://github.com/khairaniai/UHI-LST-LU-LC)
   - [Landsat Composite Data Analysis](https://github.com/khairaniai/Landsat-Composite)
+  - [Landsat Data for Elevation & Land Cover Map (https://github.com/khairaniai/Elevation-Land-Cover-Map)
 
 
 <h2>👨‍💻 Geospatial Data Management:</h2>
@@ -34,8 +35,6 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
   - [IDW Interpolation for Hydrological Analysis](https://github.com/khairaniai/ArcGIS-IDW-interpolation)
 - <b>ArcGIS metklim interpolasi</b>
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall) (BELOM)
-- <b>ArcGIS (ASK)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(BELOM)
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
