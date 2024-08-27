@@ -26,7 +26,7 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 - <b>Remote Sensing</b>
   - [Landsat Data for UHI, LST, and LU/LC](https://github.com/khairaniai/UHI-LST-LU-LC)
   - [Landsat Composite Data Analysis](https://github.com/khairaniai/Landsat-Composite)
-  - [Landsat Data for Elevation & Land Cover Map] (https://github.com/khairaniai/Elevation-Land-Cover-Map)
+  - [Landsat Data for Elevation & Land Cover Map](https://github.com/khairaniai/Elevation-Land-Cover-Map)
 
 
 <h2>👨‍💻 Geospatial Data Management:</h2>
