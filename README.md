@@ -36,5 +36,3 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 - <b>ArcGIS metklim interpolasi</b>
   - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall) (BELOM)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
