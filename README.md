@@ -34,5 +34,5 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 - <b> ArcGIS - Interpolation</b>
   - [IDW Interpolation for Hydrological Analysis](https://github.com/khairaniai/ArcGIS-IDW-interpolation)
 - <b>ArcGIS metklim interpolasi</b>
-  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall) (BELOM)
+  - [CDD Calculation and Visualization](https://github.com/khairaniai/CDD-ExtremeRainfall)
 
