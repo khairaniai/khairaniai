@@ -5,7 +5,7 @@ I'm a recent graduate from IPB University with a strong foundation in data analy
 
 ## Objective
 
-My academic and hands-on experiences in data analysis, R programming, and geospatial mapping have fueled my passion for leveraging data-driven insights. I am now eager to transition into a data analyst role where I can apply my skills in data mining, interpretation, and GIS applications to solve complex problems and drive informed decision-making.
+My academic and hands-on experiences in data analysis, R programming, and geospatial mapping have fueled my passion for leveraging data-driven insights. I am now eager to transition into a data analyst role where I can apply my skills in data mining, data analysis, and interpretation to solve complex problems and drive informed decision-making.
 
 ## Projects
 
