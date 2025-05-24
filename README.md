@@ -12,7 +12,7 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 <h2>👨‍💻 Power BI :</h2>
 
 - <b>Power BI Portfolio</b>
-  - [Power BI Beginner](https://github.com/khairaniai/Meteorology-for-Evapotranspiration)
+  - [Power BI Beginner](https://github.com/khairaniai/powerbi-training)
 
 <h2>👨‍💻 Big Data Management and Visualization (R programming):</h2>
 
