@@ -16,6 +16,8 @@ My academic and hands-on experiences in data analysis, R programming, and geospa
 
 <h2>👨‍💻 Big Data Management and Visualization (R programming):</h2>
 
+- <b>Nearest Neighbor and Kriging Interpolation</b>
+  - [Dryness Index Interpolation for Vineyard Growing Area](https://github.com/khairaniai/vineyard-interpolation)
 - <b>Years of Daily Data Analysis</b>
   - [Daily Meteorological Data to Estimate Evapotranspiration](https://github.com/khairaniai/Meteorology-for-Evapotranspiration)
 - <b>Hundreds of Daily Data Management</b>
